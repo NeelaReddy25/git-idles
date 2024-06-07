@@ -2,3 +2,5 @@ idly flour
 ghee
 karam
 butter
+onions
+sambar
