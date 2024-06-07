@@ -3,4 +3,3 @@ ghee
 karam
 butter
 onions
-sambar
